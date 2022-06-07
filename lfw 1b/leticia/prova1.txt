@@ -1,0 +1,23 @@
+<!DOCTIPE html>
+<html lang="pt-br"
+<head>
+  <meta chasert= "UTF-8">
+  <tittle>caption</tittle
+ <head>
+ <body=borderColor:gree
+ <h1>Nome do aluno h1 </h1>
+ <h2>Nota 01 h2 <\h2>
+ <h3>Nota 02 h3 <\h3>
+ <h4>Pedro h4 <\h4>
+ <h5>7.0 h5 <\h5>
+ <h2>8.0 h6 <\h6>
+ <h7>Marcus h7 <\h7>
+ <h7>5.0 h8 <\h8>
+ <h8>10.0 h9 <\h9>
+ 
+ <p>     <p>
+ 
+
+
+ 
+ 

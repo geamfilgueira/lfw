@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang= "pt-br">
+<meta-UTF-8>
+	<bory>
+	<table="1"> 
+		<tr> 
+			<th>COD<th>
+			<th>DESCRICAO<th>
+		</tr>
+		<tr>
+			<th>001</th>
+			<th>Frango</th>
+			<th>RS10,00</th>
+		</tr>
+		<tr>
+			<th>002</th>
+			<th>frango</th>
+			<th>rs15,00</th>
+
+		</tr>
+		<tr>
+			<th>001</th>
+			<th>pato</th>
+			<th>rs12,00</th>
+		</tr>
+		<tr>
+			<th>003</th>
+			<th>pato</th>
+			<th>rs17,00</th>
+		</tr>
+		<tr>
+			<th>001</th>
+			<th>peixe</th>
+			<th>rs6,00</th>
+		</tr>
+		<tr>
+			<th>002</th>
+			<th>peixe</th>
+			<th>rs9,00</th>
+		</tr>
+		<tr>
+			<th>REFERENCIAS PARA CODIGO </th>
+		</tr>
+		</table>
+	</bory>
+</html>

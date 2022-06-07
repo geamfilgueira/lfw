@@ -1,0 +1,27 @@
+﻿<!DOCTYPE>
+<html>
+
+	<head>
+	
+	<title>LINKS</title>
+	
+	</head>
+
+	<body>
+
+		<a href="C:\Users\202116540017\Downloads\prova_html.pdf"> Link para Arquivo</a><br>
+		<a href="youtube.com.br"> Link para Video</a><br>
+		<a href="ifpb.edu.br"> Link para Portal IFPB</a><br>
+		<a href="C:\Users\Public\Pictures\Sample Pictures\Água-viva.jpg"> Link para Imagem</a><br>
+
+
+	</body>
+
+
+
+
+
+
+
+
+</html>

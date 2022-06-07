@@ -1,0 +1,32 @@
+﻿<!DOCTYPE>
+<html>
+
+	<head>
+	
+	<title>Notas</title>
+
+	</head>
+
+	<body>
+		
+
+		<table border="1">
+		
+		<th>Notas</th>
+		<td>Nome do Aluno</td>
+		<td>Nota 01</td> 
+		<td>Nota 02</td> 
+		
+		<td>Pedro</td>
+		<td>7.0</td>
+		<td>8.0</td>
+
+		<td>Marcus</td>
+		<td>5.0</td>
+		<td>10.0</td>
+
+		</table>
+
+	</body>
+
+</html>

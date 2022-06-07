@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html lang= "pt-br">
+	<bory>
+	<colspan> 
+		LINHA 1
+	 </colspan>
+	<colspan>
+		 LINHA 2 
+	</colspan>
+	<colspan>
+ 		LINHA 3
+ 	</colspan>
+	</bory>
+</html>
+
+	

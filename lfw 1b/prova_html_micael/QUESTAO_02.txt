@@ -1,0 +1,24 @@
+﻿<!DOCTYPE>
+<html>
+
+	<head>
+
+	<title>Linhas Horizontais</title>
+
+	</head>
+
+	<body>
+
+
+	<P>
+	<h2>LINGUAGENS E FERRAMENTAS PARA WEB</h2><hr><br>
+	<h3>Professor Geam Filgueira</h3><hr><br>
+	<h4>Prova de HTML</h4><hr><br>
+	</P>
+
+
+	</body>
+
+
+
+</html>
